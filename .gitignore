@@ -159,3 +159,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 vosk-model-en-us-0.22
+vosk-model-en-in-0.5
+vosk-model-small-en-in-0.4
